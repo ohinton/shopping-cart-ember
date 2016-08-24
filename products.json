@@ -1,0 +1,11 @@
+{ "products": [{
+  "name": "backpack",
+  "price": "15"
+  },{
+  "name": "journal",
+  "price": "5"
+  },{
+  "name": "water bottle",
+  "price": "8"
+  }]
+}
